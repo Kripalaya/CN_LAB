@@ -47,7 +47,7 @@ Q9)Write a client server socket program in TCP for uploading and downloading fil
 
 Q10)Write two C programs using raw socket to send i. TCP packet where TCP payload will contain your roll number. ii. ICMP time stamp messages towards a target IP.
 
-![Client](Assignment_10/cap.png) ![Client](roll_tcp.png) ![Client](Assignment_10/time_icmp.png)
+![Client](Assignment_10/cap.png) ![Client](Assignment_10/roll_tcp.png) ![Client](Assignment_10/time_icmp.png)
 
 Q11)Write a RAW socket program to generate TCP SYN flood based DDoS attack towards an IP address. Take four mininet hosts as agent devices.
 
