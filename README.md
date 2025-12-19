@@ -12,6 +12,7 @@ v. Display the customer ids <IP, port> who has done transactions already. This l
 vi. The total number of unique customers who did some transaction will be displayed to the customer every time.
 ![Client](Assignment_2/Ass2client.png) ![Server](Assignment_2/Ass2server.png)
 
+
 Q3)Do question 2 using UDP socket
 ![Client](Assignment_3/Ass3client.png) 
 ![Server](Assignment_3/Ass3server.png)
@@ -20,7 +21,7 @@ Q4)Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram 
 (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file.
 ![Client](Assignment_4/Ass4bargraph.png) ![Client](Assignment_4/Ass4capture.png) 
 ![Client](Assignment_4/Ass4time.png) ![Client](Assignment_4/l2 header.png) 
-![Client](Assignment_4/l2 header.png) ![Client](Assignment_4/l2 header.png) 
+![Client](Assignment_4/l3-header.png) ![Client](Assignment_4/l4-header.png) 
 
 Q5)Learn and use maximum number of packet generation tools.
 
