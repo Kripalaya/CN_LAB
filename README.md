@@ -10,23 +10,28 @@ iii. The fruit quantity is updated each time any fruit is sold,
 iv. Send regret message to a client if therequested quantityof the fruit is not available.
 v. Display the customer ids <IP, port> who has done transactions already. This list should be updated in the server every time a transaction occurs.
 vi. The total number of unique customers who did some transaction will be displayed to the customer every time.
+
 ![Client](Assignment_2/Ass2client.png) ![Server](Assignment_2/Ass2server.png)
 
 
 Q3)Do question 2 using UDP socket
+
 ![Client](Assignment_3/Ass3client.png) 
 ![Server](Assignment_3/Ass3server.png)
 
 Q4)Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram to show the steps in the protocols recorded in the captured file 
 (saved in the .pcap file of wireshark) during a PING operation. List the L2, L3, L4 header fields that can be extracted from the .pcap file.
+
 ![Client](Assignment_4/Ass4bargraph.png) ![Client](Assignment_4/Ass4capture.png) 
 ![Client](Assignment_4/Ass4time.png) ![Client](Assignment_4/l2 header.png) 
 ![Client](Assignment_4/l3-header.png) ![Client](Assignment_4/l4-header.png) 
 
 Q5)Learn and use maximum number of packet generation tools.
+
 ![Client](Assignment_5/ditg.png) ![Client](Assignment_5/iperf_tcp.png) ![Client](Assignment_5/iperf_udp.png) 
 
 Q6)Develop a simple C based network simulator to analyze TCP traffic.
+
 ![Client](Assignment_6/Assign_6.png)
 
 Q7)Write UDP client server socket program where client sends one/two number(s) (integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss?
