@@ -24,18 +24,19 @@ Q4)Install wireshark in a VM (Virtual Machine) environment. Draw a time diagram 
 ![Client](Assignment_4/l3-header.png) ![Client](Assignment_4/l4-header.png) 
 
 Q5)Learn and use maximum number of packet generation tools.
+![Client](Assignment_5/ditg.png) ![Client](Assignment_5/iperf_tcp.png) ![Client](Assignment_5/iperf_udp.png) 
 
 Q6)Develop a simple C based network simulator to analyze TCP traffic.
+![Client](Assignment_6/Assign_6.png)
 
-Q7)Write UDP client server socket program where client sends one/two number(s) (integer or floating point) to server and a scientific calculator operation (like
-sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific 
-calculator. Detect in the mininet hosts with wireshark if there is any packet loss?
+Q7)Write UDP client server socket program where client sends one/two number(s) (integer or floating point) to server and a scientific calculator operation (like sin,cos,*,/, inv etc.) and server responds with the result after evaluating the value of operation as sent by the client. Server will maintain a scientific calculator. Detect in the mininet hosts with wireshark if there is any packet loss?
+![Client](Assignment_7/Ass7client.png) ![Client](Assignment_7/Ass7server.png)
 
-Q8)Write a program in C using thread library and TCP sockets to build a chat server which enable clients communicating to each other through the chat server. 
-Message logs must be maintained in the server in a text file. Each client will see the conversations in real time. Clients must handled by a server thread. 
-(Keep it like a group chatbox)
+Q8)Write a program in C using thread library and TCP sockets to build a chat server which enable clients communicating to each other through the chat server. Message logs must be maintained in the server in a text file. Each client will see the conversations in real time. Clients must handled by a server thread. (Keep it like a group chatbox)
+![Client](Assignment_8/Ass8client.png) ![Client](Assignment_8/Ass8server.png) 
 
 Q9)Write a client server socket program in TCP for uploading and downloading files between two different hosts. Also calculate the transfer time in both the cases.
+![Client](Assignment_9/Ass9client.png) ![Client](Assignment_9/Ass9server.png) 
 
 Q10)Write two C programs using raw socket to send i. TCP packet where TCP payload will contain your roll number. ii. ICMP time stamp messages towards a target IP.
 
