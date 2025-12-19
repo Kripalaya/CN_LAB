@@ -1,5 +1,7 @@
 Q1)Write a program to run TCP client and server socket programs where client firstsays “Hi” and in response server says “Hello”.
-   
+   ![](Assignment_1/Ass1client.png)
+   ![](Assignment_1/Ass1server.png)
+
 Q2)Write a program using TCP socket to implement the following:
     i. Server maintains records of fruits in the format: fruit-name, quantity Last-sold,(server timestamp),
     ii. Multiple client purchase the fruits one at a time,
